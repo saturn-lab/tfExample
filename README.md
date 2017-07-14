@@ -1,6 +1,8 @@
-Tensorboard example with MNIST data.
+#Tensorboard example with MNIST data.
 
-# Git clone or download the code
+# Git clone   
+
+download the code
 
 
 # Data 
@@ -15,14 +17,14 @@ MNIST data is zipped.
 
 In Linux:
 
-$python ./tfExample/model.py
+'$python ./tfExample/model.py'
 
 In Windows:
 
-$python -m tensorflow.tensorboard --logdir=.\\tfExample\\log
+'$python -m tensorflow.tensorboard --logdir=.\\tfExample\\log'
 
 
 # Show results
 
-http://localhost:6006
+'http://localhost:6006'
 
