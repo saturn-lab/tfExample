@@ -3,13 +3,13 @@ Tensorboard example with MNIST data.
 # Git clone or download the code
 
 
-# data 
+# Data 
 
 MNIST data is zipped. 
 
 # PLEASE UNZIP IT!!!!
 
-#Train 
+# Train 
 
 In Linux:
 
