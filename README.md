@@ -5,9 +5,11 @@ Tensorboard example with MNIST data.
 
 # Data 
 
+
 MNIST data is zipped. 
 
 # PLEASE UNZIP IT!!!!
+
 
 # Train 
 
@@ -19,6 +21,8 @@ In Windows:
 
 $python -m tensorflow.tensorboard --logdir=.\\tfExample\\log
 
+
 # Show results
 
 http://localhost:6006
+
