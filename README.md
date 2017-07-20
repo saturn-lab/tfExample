@@ -15,16 +15,20 @@ MNIST data is zipped.
 
 # Train 
 
-In Linux:
+## In Linux:
 
-'$python ./tfExample/model.py'
+'$python ./tfExample/model.py' 
 
-In Windows:
+'$python -m tensorflow.tensorboard --logdir=./tfExample/log'
 
-'$python -m tensorflow.tensorboard --logdir=.\\tfExample\\log'
+## In Windows:
+'$python model.py'  (in "./tfExample" folder)
+
+'$python -m tensorflow.tensorboard --logdir=log'
 
 
 # Show results
+Open Web Browser, and type the following URL:
 
 'http://localhost:6006'
 
