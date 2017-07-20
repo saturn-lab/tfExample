@@ -12,6 +12,7 @@ MNIST data is zipped.
 
 # PLEASE UNZIP IT!!!!
 
+unzip the mnist.zip and put the mnist.mat file in './tfExample/data' foler. 
 
 # Train 
 
