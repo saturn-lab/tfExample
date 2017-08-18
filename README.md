@@ -1,20 +1,20 @@
 #Tensorboard example with MNIST data.
 
-# Git clone   
+# Step 1. Git clone   
 
 download the code
 
 
-# Data 
+# Step 2. prepare Data 
 
 
 MNIST data is zipped. 
 
-# PLEASE UNZIP IT!!!!
+## PLEASE UNZIP IT!!!!
 
 unzip the mnist.zip and put the mnist.mat file in './tfExample/data' foler. 
 
-# Train 
+# Step 3. Train 
 
 ## In Linux:
 
@@ -28,7 +28,7 @@ unzip the mnist.zip and put the mnist.mat file in './tfExample/data' foler.
 '$python -m tensorflow.tensorboard --logdir=log'
 
 
-# Show results
+# Step 4. Show results
 Open Web Browser, and type the following URL:
 
 'http://localhost:6006'
