@@ -16,16 +16,19 @@ unzip the mnist.zip and put the mnist.mat file in './tfExample/data' foler.
 
 # Step 3. Train 
 
+## In Windows:
+'$cd tfExample'  (in "./tfExample" folder)
+
+'$python model.py' 
+
+'$tensorboard --logdir=log'
+
+
 ## In Linux:
 
 '$python ./tfExample/model.py' 
 
 '$python -m tensorflow.tensorboard --logdir=./tfExample/log'
-
-## In Windows:
-'$python model.py'  (in "./tfExample" folder)
-
-'$python -m tensorflow.tensorboard --logdir=log'
 
 
 # Step 4. Show results
