@@ -16,7 +16,7 @@ unzip the mnist.zip and put the mnist.mat file in './tfExample/data' foler.
 
 # Step 3. Train 
 
-## In Windows:
+## In Windows or Mac:
 '$cd tfExample'  (in "./tfExample" folder)
 
 '$python model.py' 
