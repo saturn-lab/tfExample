@@ -1,4 +1,4 @@
-#Tensorboard example with MNIST data.
+# Tensorboard example with MNIST data.
 
 # Step 1. Git clone   
 
